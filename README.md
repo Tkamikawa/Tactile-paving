@@ -1,7 +1,9 @@
 # Tactile-paving
 
-
 I'm developing iOS application to detect tactile paving. 
+I use VGG16 as a base model and classify the type of tactile paving.
+
+I'll upload code and model soon.
 
 <p>
 
