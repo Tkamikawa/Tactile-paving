@@ -1,4 +1,4 @@
-# Tactile-paving
+# Tactile-paving-classification
 
 I'm developing iOS application to detect tactile paving. 
 
